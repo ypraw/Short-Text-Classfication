@@ -4,7 +4,7 @@
 _The Dian Nuswantoro university library has very significant growth of electornic documents, especially the mini-thesis documents. This makes it difficult to categorize and organize the documents, especially the documents which can be used as a reference for further research.  In addition, these documents are text that has a large data ratio. Text mining is one of the solutions which can categorize all documents automatically, making it easier to divide the document based on its category. The implementation of digital computing in this research uses K Nearest Neighbor algorithm and word weighting method TF-IDF  to categorize the final assignment document based on its title. The word weighting method  TF-IDF and K Nearest Neighbor Classifier are able to classify the final assignment categories, evidenced by the accuracy value, precision value and recall value of 75% each._
 
 # Data Source
-**_This program based on my research for undergraduate program on my University. The data used is the original Title of Bachelor Thesis at Department of Informatics of Universitas Dian Nuswantoro that has been edited for some content for publication purposes._**
+**_This program based on my research for Bachelor program on my University. The data used is the original Title of Bachelor Thesis at Department of Informatics of Universitas Dian Nuswantoro that has been edited for some content for publication purposes._**
 
 # Design of System
 *  TEXT ANALYSIS
