@@ -31,6 +31,8 @@ _The Dian Nuswantoro university library has very significant growth of electorni
 
 # Implementation
 
+> online source can access here [Short-text-Classfication](https://colab.research.google.com/github/ypraw/Short-Text-Classfication/blob/master/MainApp/MainAPP.ipynb)
+
 - Please make sure you have installed python 3 on your devices, if not, you can download here [python.org](https://www.python.org/downloads/)
 - if you using linux or mac, which is have installed python, make sure you create virtual env for better managing packages on your python system.
 - install the `requirements.txt`
